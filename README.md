@@ -10,4 +10,4 @@ The svg files are designed to be watermarks, but can be modified for any number 
 
 Included is the blender file, (FreeCAD_Wireframe_Intro.blend), that was used for the rendering of the FreeCAD_WireIntro video clips.
 
-Revolve_FC_Logo.mp4 is a little over a minuet of a revolving FreeCAD logo, lower left corner. Transparent background and be used as an anamatied watermark bt adding or compositing. 
+Revolve_FC_Logo.mp4 is a little over a minuet of a revolving FreeCAD logo, lower left corner. Transparent background can be used as an anamatied watermark by adding or compositing. 
